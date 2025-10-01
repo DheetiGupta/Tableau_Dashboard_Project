@@ -10,7 +10,7 @@ Analyze year-over-year sales(YoY) performance and understand key trends.
 KPI Overview:
 Total Sales, Profits, and Quantity for the Current Year vs. Previous Year
 
-Sales Trends (Monthly:
+Sales Trends (Monthly):
 Show YoY monthly trends for Sales, Profits, and Quantity. 
 Highlight the highest and lowest sales months. 
 
@@ -28,8 +28,8 @@ Must allow users to select any desired year to view historical data.
 Navigation:
 Provide an easy way for users to navigate between different dashboard views.
 
-Chart Interactivity
+Chart Interactivity:
 Charts and graphs must be interactive, allowing users to filter data by clicking on the visuals.
 
-Data Filters
+Data Filters:
 Include filters for Product (Category, Subcategory) and Location (Region, State, City). 
